@@ -1,16 +1,11 @@
 ## Hi there 👋
 
-<!--
-**BenYang12/BenYang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 My name is Ben, and I'm a student at **UNC Chapel Hill** studying **Computer Science & Statistics**. I'm pursuing a career in software engineering, and I'm specifically interested in **back-end engineering, full-stack development, AI/ML, and cloud infrastructure**.
-
 
 - 🌱 I'm currently learning cloud infrastructure, distributed systems, and AI/ML engineering
 - 👯 I'm looking to collaborate on open-source or full-stack projects
 - 📫 How to reach me: yangbenjamin19@gmail.com | linkedin.com/in/benyang12
-- ⚡ Outside of school: I like playing volleyball, watching premier league matches, and playing basketball with friends. 
+- ⚡ Outside of school: I like playing volleyball, watching premier league matches, and playing basketball with friends.
 
 ---
 
@@ -33,6 +28,10 @@ My name is Ben, and I'm a student at **UNC Chapel Hill** studying **Computer Sci
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=swift&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 
 **Tools & Platforms**
 
@@ -44,3 +43,5 @@ My name is Ben, and I'm a student at **UNC Chapel Hill** studying **Computer Sci
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
