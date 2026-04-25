@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Ben, and I'm a student at **UNC Chapel Hill** studying **Computer Science & Statistics**. I'm pursuing a career in software engineering, and I'm specifically interested in **full-stack development, AI/ML, and cloud infrastructure**.
+My name is Ben, and I'm a student at **UNC Chapel Hill** studying **Computer Science & Statistics**. I'm pursuing a career in software engineering, and I'm specifically interested in **Backend development, full-stack development, AI/ML, and cloud infrastructure**.
 
-- 🌱 I'm currently learning cloud infrastructure, distributed systems, and AI/ML engineering
+- 🌱 I'm currently learning distributed systems with Go!
 - 👯 I'm looking to collaborate on open-source or full-stack projects
 - 📫 How to reach me: yangbenjamin19@gmail.com | linkedin.com/in/benyang12
 - ⚡ Outside of school: I like playing volleyball, watching premier league matches, and playing basketball with friends.
